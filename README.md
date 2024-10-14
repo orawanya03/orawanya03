@@ -1,12 +1,12 @@
 ## Hi there 👋
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Eve]!
 
 I'm a passionate **Data Science Enthusiast** who loves finding insights from data and solving real-world problems through machine learning, data visualization, and statistical analysis.
 
 ---
 
 ## 🔍 About Me
-- 🎓 I hold a degree in [Your Degree] with a specialization in **Data Science**.
+- 🎓 I Currently studying in the 3rd year at Srinakharinwirot University. with a specialization in **Data Science**.
 - 🧠 Currently learning **Deep Learning** and **Natural Language Processing**.
 - 🌱 I’m passionate about exploring **Machine Learning** algorithms, **Data Mining**, and **Big Data Analytics**.
 - 💼 Looking for opportunities in **Data Science** or **Machine Learning Engineer** roles.
