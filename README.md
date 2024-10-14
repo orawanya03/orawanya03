@@ -30,7 +30,7 @@ Here are some of my favorite projects that showcase my Data Science skills:
    - Web scraping from bookselling websites to study sales data for different types of books.
    - Visualized data using Seaborn and Matplotlib.
 
-2. **[Waiter Tips]((https://github.com/orawanya03/stat-Project)):**
+2. **[Waiter Tips](https://github.com/orawanya03/stat-Project):**
    - The data on customer tips is collected and analyzed to determine which factors affect customer tips. Descriptive statistics are written in Python and presented in the form of graphs.
    - Customer tips are predicted using the Regression.
 
