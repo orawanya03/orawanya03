@@ -30,13 +30,10 @@ Here are some of my favorite projects that showcase my Data Science skills:
    - Web scraping from bookselling websites to study sales data for different types of books.
    - Visualized data using Seaborn and Matplotlib.
 
-2. **[Customer Segmentation using K-Means](https://github.com/yourusername/customer-segmentation):**
-   - Applied K-Means clustering to group customers based on their purchasing behavior.
-   - Used principal component analysis (PCA) for dimensionality reduction.
+2. **[Waiter Tips]((https://github.com/orawanya03/stat-Project)):**
+   - The data on customer tips is collected and analyzed to determine which factors affect customer tips. Descriptive statistics are written in Python and presented in the form of graphs.
+   - Customer tips are predicted using the Regression.
 
-3. **[Twitter Sentiment Analysis](https://github.com/yourusername/twitter-sentiment-analysis):**
-   - Analyzed real-time Twitter data to classify sentiments using Natural Language Processing (NLP).
-   - Trained models using Naive Bayes and LSTM neural networks.
 
 ---
 
