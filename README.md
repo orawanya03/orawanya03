@@ -26,7 +26,7 @@ I'm a passionate **Data Science Enthusiast** who loves finding insights from dat
 ## 📊 Projects
 Here are some of my favorite projects that showcase my Data Science skills:
 
-1. **[WebScraping](Web_Scraping_Project.ipynb):**
+1. **[WebScraping](https://github.com/orawanya03/web-scraping-Project):**
    - Web scraping from bookselling websites to study sales data for different types of books.
    - Visualized data using Seaborn and Matplotlib.
 
@@ -41,7 +41,7 @@ Here are some of my favorite projects that showcase my Data Science skills:
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![EVE stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
