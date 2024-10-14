@@ -26,7 +26,7 @@ I'm a passionate **Data Science Enthusiast** who loves finding insights from dat
 ## 📊 Projects
 Here are some of my favorite projects that showcase my Data Science skills:
 
-1. **[WebScraping](https://github.com/yourusername/house-price-prediction):**
+1. **[WebScraping](Web_Scraping_Project.ipynb):**
    - Web scraping from bookselling websites to study sales data for different types of books.
    - Visualized data using Seaborn and Matplotlib.
 
