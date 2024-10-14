@@ -48,8 +48,8 @@ Here are some of my favorite projects that showcase my Data Science skills:
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [My Resume]([https://www.linkedin.com/in/yourusername/](https://www.canva.com/design/DAGSftkQTCo/T3HNfF-4y_eT5vPjq-97gg/edit?utm_content=DAGSftkQTCo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- Email: [orawanya247@gmail.com](mailto:orawanya247@gmail.com)
 
 ---
 
