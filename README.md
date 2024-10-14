@@ -26,8 +26,8 @@ I'm a passionate **Data Science Enthusiast** who loves finding insights from dat
 ## 📊 Projects
 Here are some of my favorite projects that showcase my Data Science skills:
 
-1. **[Predicting House Prices](https://github.com/yourusername/house-price-prediction):**
-   - Built a regression model using Scikit-learn to predict house prices based on various features.
+1. **[WebScraping](https://github.com/yourusername/house-price-prediction):**
+   - Web scraping from bookselling websites to study sales data for different types of books.
    - Visualized data using Seaborn and Matplotlib.
 
 2. **[Customer Segmentation using K-Means](https://github.com/yourusername/customer-segmentation):**
